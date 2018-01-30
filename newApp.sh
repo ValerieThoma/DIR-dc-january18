@@ -1,0 +1,12 @@
+mkdir my-web-app
+cd my-web-app
+mkdir scripts
+cd scripts
+touch main.js
+cd ..
+mkdir stylesheet
+cd stylesheet
+touch styles.css
+cd ..
+touch index.html
+open index.html
